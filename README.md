@@ -5,7 +5,7 @@ i like to look at text for hours on end, fun eh?
 - [react](https://reactjs.org/) developer at heart
 - cheating with [vue](https://vuejs.org/) though
 
-- check out my discord bot, [Apollus](https://top.gg/bot/880104428676468798), he'll offend you
+- check out my discord bot, [Apollus](https://discord.com/oauth2/authorize?client_id=880104428676468798&scope=bot&permissions=36817920), he'll offend you
 
 - typescript > javascript
 
